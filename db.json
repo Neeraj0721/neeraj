@@ -1,0 +1,25 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "neeraj.verma@hcl.com",
+      "password": "1234",
+      "name": "Neeraj Verma",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "username": "admin@rediffmail.com",
+      "password": "2345",
+      "name": "Admin",
+      "admin": true
+    },
+    {
+      "username": "mahi@gmail.com",
+      "password": "mahi",
+      "name": "Mahi",
+      "admin": false,
+      "id": 3
+    }
+  ]
+  }
